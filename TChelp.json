@@ -1,6 +1,7 @@
 {
     "version": "1.0",
     "lastUpdate": "2026-01-29",
+    "showAbnormalMovement": true,
     "notice": {
         "enable": false,
         "title": "系统公告",
